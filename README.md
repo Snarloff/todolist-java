@@ -3,6 +3,8 @@
 ![Rocketseat](https://img.shields.io/badge/Curso%20de%20Java-Rocketseat-blue)
 ![Snarloff](https://img.shields.io/badge/Aluno-Snarloff-red)
 
+![TechThrowBack](https://github.com/Snarloff/todolist-java/assets/46792575/318274d5-9537-450e-8604-ffece66c7d53)
+
 Este é um projeto de uma REST API de lista de tarefas (TodoList) desenvolvida com Spring Boot e Maven. A aplicação utiliza o Spring JPA para interagir com o banco de dados H2, que armazena os dados em memória.
 
 ## Visão Geral
